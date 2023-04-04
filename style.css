@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+}
+
+table{
+    border: 1px solid green;
+    text-align: center;
+}
+
+table td{
+    border: 1px dashed black;
+    background: rgba(210, 105, 30, 0.637);
+}
+
+table th{
+    color: purple;
+    border: 1px dashed black;
+    background: rgba(243, 0, 0, 0.144);
+}
+
+.time{
+    background: rgba(200, 255, 0, 0.514);
+}
+
+.break{
+    color: black;
+    background: rgba(255, 0, 0, 0.479);
+}
